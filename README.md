@@ -1,10 +1,10 @@
 # WDM-Ex.NO-2B-ASSOCIATION-RULES-FOR-BANKING-DATASET
-Aim:
+### Aim:
 To Find the Association Rules for Banking dataset.
-Description:
+### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting relations between variables in large databases. It can be described as analyzing and presenting strong rules discovered in databases using different measures of interestingness. In market basket analysis association rules are used and they are also employed in many application areas including Web usage mining, intrusion detection and bioinformatics.
-Creation of Banking Table:
-Procedure:
+## Creation of Banking Table:
+### Procedure:
 1)	Open Start  Programs  Accessories  Notepad
 2)	Type the following training data set with the help of Notepad for Banking Table.
 
@@ -45,7 +45,7 @@ Training Data Set  Banking Table
 <img width="730" height="784" alt="image" src="https://github.com/user-attachments/assets/b901d50b-211c-4a08-9cca-fa8d732e48b8" />
 
 
-Procedure for Association Rules:
+### Procedure for Association Rules:
 1)	Open Start  Programs  Weka-3-4  Weka-3-4
 2)	Open explorer.
 3)	Click on open file and select bank.arff
